@@ -1,0 +1,5 @@
+deep-translator==1.11.4          
+google-generativeai==0.7.1        
+gTTS==2.5.1      
+streamlit==1.36.0
+ 
