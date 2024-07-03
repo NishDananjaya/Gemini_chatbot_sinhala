@@ -17,7 +17,7 @@ This is a chatbot application that uses Google's Gemini AI for generating respon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gemini-ai-chatbot.git
+   git clone https://github.com/yourusername/gemini-ai-chatbot.git](https://github.com/NishDananjaya/Gemini_chatbot_sinhala.git
    cd gemini-ai-chatbot
    ```
 
