@@ -17,7 +17,7 @@ This is a chatbot application that uses Google's Gemini AI for generating respon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gemini-ai-chatbot.git](https://github.com/NishDananjaya/Gemini_chatbot_sinhala.git
+   https://github.com/NishDananjaya/Gemini_chatbot_sinhala.git
    cd gemini-ai-chatbot
    ```
 
@@ -64,10 +64,6 @@ This is a chatbot application that uses Google's Gemini AI for generating respon
 ## Configuration
 
 - **Google API Key**: You need to configure the Google API key for the Gemini AI model. You can either set it directly in the script or input it through the Streamlit sidebar.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
