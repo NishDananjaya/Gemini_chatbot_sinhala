@@ -13,7 +13,7 @@ genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-pro')
 
 # Streamlit app
-st.title("Chat with Gemini AI 🤖 (with Translation)")
+st.title("Chat with Gemini AI by NishD® 🤖 (with Translation)")
 
 # Initialize chat history and language selection
 if "messages" not in st.session_state:
