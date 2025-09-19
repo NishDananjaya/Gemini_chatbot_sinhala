@@ -23,7 +23,7 @@ This is a chatbot application that uses Google's Gemini AI for generating respon
 
 2. Create and activate a virtual environment (optional but recommended):
 
-   ```bash
+   ```python
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
